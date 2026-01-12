@@ -71,7 +71,7 @@ Additionally, if you would like to know what we are upto, consider
 joining us on discord and following our twitter for updates!
 
 <h3 align="left">
-  <a href="https://discord.gg/VAk6aRfdqW"><img src="../.github/assets/agoraedu-discord.png" height="40" alt="Join Our Discord!"></a><a href="https://x.com/EduAgora10942"><img src="../.github/assets/agoraedu-twitter.png" height="40" alt="Follow Us On Twitter!"></a>
+  <a href="https://discord.gg/VAk6aRfdqW"><img src="../.github/assets/agoraedu-discord.png" height="40" alt="Join Our Discord!"></a> <a href="https://x.com/EduAgora10942"><img src="../.github/assets/agoraedu-twitter.png" height="40" alt="Follow Us On Twitter!"></a>
 </h3>
 
 ## Other Questions & Concerns
